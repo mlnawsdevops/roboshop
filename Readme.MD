@@ -1,1 +1,1 @@
-![alt text](../tmp/roboshop/roboshoop-documentation/proxy.jpg)
+![!\[alt text\](../tmp/roboshop/roboshoop-documentation/proxy.jpg)](proxy.jpg) ![!\[alt text\](../tmp/roboshop/roboshoop-documentation/proxy.jpg)](roboshop.jpg)
